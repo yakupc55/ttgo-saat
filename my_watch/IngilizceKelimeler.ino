@@ -1,6 +1,6 @@
 #include "kelimeler.h";
 int ik_sayac=240;
-int kelimeSayisi=542;
+int kelimeSayisi=646;
 uint32_t startIndexE=2883;
 uint32_t endIndex=0;
 uint32_t startIndexT=7032;
